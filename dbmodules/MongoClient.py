@@ -2,7 +2,7 @@ import pymongo
 
 LOCAL_DB_URL = "mongodb://localhost:27017/"
 
-REMOTE_DB_URL = "mongodb+srv://rajancdr:star123@cluster0.ca1bexo.mongodb.net/?retryWrites=true&w=majority"
+REMOTE_DB_URL = "mongodb+srv://rajancdr:sky123@cluster0.ca1bexo.mongodb.net/?retryWrites=true&w=majority"
 
 mycol = None
 def CreateConnection(name,collName):
